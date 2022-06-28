@@ -1,2 +1,2 @@
 # redux-toolkit
-A simple shopping app build with react will help of the redux-toolkit as state manager.
+A simple shopping app build with react with the help of the redux, redux-toolkit as state manager.
